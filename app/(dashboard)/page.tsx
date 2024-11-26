@@ -3,9 +3,9 @@ import Image from "next/image";
 
 export default function home(){
   return (
-    <Button variant="default">
-      Click me!
-    </Button>
+    <p>
+      this is an auth-route
+    </p>
   )
 
 }
